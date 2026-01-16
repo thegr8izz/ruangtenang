@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 tabId = 'menu-starters';
             } else if (linkText === 'Non Coffee') {
                 tabId = 'menu-breakfast';
-            } else if (linkText === 'Beverages') {
+            } else if (linkText === 'Foods') {
                 tabId = 'menu-lunch';
             } else if (linkText === 'Dessert') {
                 tabId = 'menu-dinner';
